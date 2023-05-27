@@ -2,8 +2,8 @@
  매주 한 주간 풀었던 알고리즘 문제 중 일부를 리뷰합니다.
  
 # Overview
+
 ### 1-WEEK
 
-- [Leetcode_no.62]unique_paths(Medium)
-  - DFS로 풀이
-  - DP로 풀이
+- [[Leetcode_no.62]unique_paths(Medium)](https://github.com/seoeunbae/Algorithm_Review.git)
+- [[programmers_2022kakaointernship]두큐합 같게 만들기(Lv.3)](https://github.com/seoeunbae/Algorithm_Review.git)
