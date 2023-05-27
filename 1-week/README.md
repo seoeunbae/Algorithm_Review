@@ -6,6 +6,12 @@
 
 <br/>
 
+<details>
+<summary>문제 설명</summary>
+<div markdown="1">
+
+### 문제 설명
+
 There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.
 
 Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
@@ -26,6 +32,9 @@ Example 1:
 Input: m = 3, n = 7
 Output: 28
 ```
+
+</div>
+</details>
 
 ## 1. DFS로 풀이하는 경우
 
@@ -91,6 +100,12 @@ def unique_paths_with_dp(self, m: int, n: int):
 
 <br/>
 
+<details>
+<summary>문제 설명</summary>
+<div markdown="1">
+
+
+
 ### 문제 설명
 
 길이가 같은 두 개의 큐가 주어집니다. 하나의 큐를 골라 원소를 추출(pop)하고, 추출된 원소를 다른 큐에 집어넣는(insert) 작업을 통해 각 큐의 원소 합이 같도록 만들려고 합니다. 이때 필요한 작업의 최소 횟수를 구하고자 합니다. 한 번의 pop과 한 번의 insert를 합쳐서 작업을 1회 수행한 것으로 간주합니다.
@@ -132,6 +147,11 @@ queue2 = [4, 6, 5, 1]
 |[1, 1]|[1, 5]|-1|
 
 <br/>
+
+
+
+</div>
+</details>
 
 ## 구현 풀이
 
