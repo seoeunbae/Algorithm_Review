@@ -5,5 +5,5 @@
 
 ### 1-WEEK
 
-- [[Leetcode_no.62]unique_paths(Medium)](https://github.com/seoeunbae/Algorithm_Review.git)
-- [[programmers_2022kakaointernship]두큐합 같게 만들기(Lv.3)](https://github.com/seoeunbae/Algorithm_Review.git)
+- [[Leetcode_no.62]unique_paths(Medium)]
+- [[programmers_2022kakaointernship]두큐합 같게 만들기(Lv.3)]
