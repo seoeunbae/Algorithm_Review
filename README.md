@@ -1,7 +1,7 @@
-# Algorithm_Review
+# 🔎 Algorithm_Review
  매주 한 주간 풀었던 알고리즘 문제 중 일부를 리뷰합니다.
  
-# Overview
+# 📍 Overview
 - 주차 별 분류
 - 해당 주차를 클릭
 
