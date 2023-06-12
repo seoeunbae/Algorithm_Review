@@ -13,5 +13,5 @@
 - [[programmers_2022kakaointernship]두큐합 같게 만들기(Lv.3)]
 
 ### [3-WEEK](https://github.com/seoeunbae/Algorithm_Review/tree/main/3-week)
-- [[Baekjoon_10971]외판원 순회2(Silver)]
+- [[Baekjoon_14501]퇴사(Silver)]
 - [[Leetcode_no.518]coin_change_2(Medium)]
