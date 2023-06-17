@@ -114,9 +114,9 @@ start값은 ```전체반복문```에서만 점차 end로 향하도록 이동시�
 
 ## [2023kakaoblind] 표현 가능한 이진트리
 
-난이도 : 
+난이도 : LV.3
 
-링크 : 
+링크 : https://school.programmers.co.kr/learn/courses/30/lessons/150367?language=python3
 
 <br/>
 
