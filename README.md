@@ -20,5 +20,5 @@
 - [Leetcode_no.15]3sum(Medium)
 - [2023kakaoblind] 표현 가능한 이진트리
 
-### [5-WEEL]((https://github.com/seoeunbae/Algorithm_Review/tree/main/5-week))
+### [5-WEEK](https://github.com/seoeunbae/Algorithm_Review/tree/main/5-week)
 - [Baekjoon_2531] 회전초밥
